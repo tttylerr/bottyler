@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "@discordjs/builders": "^0.13.0",
+    "@discordjs/rest": "^0.4.1",
+    "discord-api-types": "^0.32.0",
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0",
+    "jquery": "^3.6.0",
+    "jsdom": "^19.0.0"
+  },
+  "name": "tyler-the-bot",
+  "version": "1.0.0",
+  "description": "A bot made by Tyler for his discord and fun!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tyler",
+  "license": "ISC"
+}
